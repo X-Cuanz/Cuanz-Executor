@@ -1,5 +1,6 @@
 #RULE-PROVIDER
 #AUTHOR: X-Cuanz
+openpayload:
 - DOMAIN-SUFFIX,zem.outbrainimg.com
 - DOMAIN-SUFFIX,mobile.yandexadexchange.net
 - DOMAIN-SUFFIX,ms.applovin.com
